@@ -8,3 +8,6 @@ This exercise has been almost completely solved by the [SPLADE.ipynb](SPLADE.ipy
 * nDCG@10 == 0.7063
 * 0.4702 seconds average query execution
 * ~10GB RAM memory for inverted index
+<br/>
+
+Check [here a presentation](https://docs.google.com/presentation/d/1ZrENtFGdfydA12VOJ0b2pYjNJfCOdPUR8ZQjnrzciuo/edit?usp=share_link) commenting this exercise resolution.
